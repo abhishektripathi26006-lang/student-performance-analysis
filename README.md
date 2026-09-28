@@ -45,7 +45,7 @@ chart1...chart5.png
 
 1. Clone the repository
 
-git clone https://github.com/abhishektripathi26006-lang/my-first-project.git
+git clone https://github.com/abhishektripathi26006-lang/student-performance-analysis.git
 2. Open the project folder
 
 cd Student-Performance-Analysis
@@ -87,7 +87,7 @@ The program can answer questions such as:
 
 Abhishek Tripathi
 
-GitHub: "abhektripathi26006-lang" (https://github.com/abhektripathi26006-lang)
+GitHub: "abhishektripathi26006-lang" (https://github.com/abhishektripathi26006-lang)
 
 
 ### ⭐ Project Goal
